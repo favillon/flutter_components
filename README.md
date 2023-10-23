@@ -1,16 +1,45 @@
 # flutter_components
 
-A new Flutter project.
+Modulo de componentes para  el curso de fluter
 
-## Getting Started
+La visualizacion de los siguientes componentes
 
-This project is a starting point for a Flutter application.
+## IOS
 
-A few resources to get you started if this is your first Flutter project:
+```shell
+Iphone 15 Pro Max
+IOS 17.0
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Home
+![Home](./img/1_home.png "Home")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Listview
+![Listview](./img/2_listview.png "Listview")
+
+## Listview Two
+![Listview Two](./img/3_listview.png "Listview Two")
+
+## Cards
+![Cards](./img/4_cards.png "Cards")
+
+## Alert
+![Alert](./img/5_alert.png "Alert")
+
+## Avatar
+![Avatar](./img/6_avatar.png "Avatar")
+
+## Animated
+![Animated](./img/7_animated.png "Animated")
+
+## Animated Two
+![Animated Two](./img/7_1_animated.png "Animated Two")
+
+## Inputs
+![Inputs](./img/8_inputs.png "Inputs")
+
+## Slider
+![Slider](./img/9_slider.png "Slider")
+
+## Lisview Builder
+![Lisview Builder](./img/10_lisviewbuilder.png "Lisview Builder")
